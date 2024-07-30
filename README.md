@@ -14,11 +14,11 @@ This dataset contains information about top IT companies worldwide, including:
 The data was obtained using a machine scraping technique from a publicly available source.
 
 ## Machine Scraping Technique
-To gather this data, I used a Python-based web scraping library called  `selunim`. The scraping process involved the following steps:
+To gather this data, I used a Python-based web scraping library called  `selenium`. The scraping process involved the following steps:
 
 1. Identified the target website and the relevant pages containing the company data.
 2. Sent HTTP requests to the target URLs , handling any rate limiting or captcha challenges.
-3. Parsed the HTML content of the pages using `selunium` to extract the required information.
+3. Parsed the HTML content of the pages using `selenium` to extract the required information.
 4. Stored the extracted data in a Pandas DataFrame for further processing and analysis.
 
 Some of the challenges I faced during the scraping process included:
