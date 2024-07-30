@@ -28,7 +28,7 @@ Some of the challenges I faced during the scraping process included:
 
 The code used for the scraping process is available in the `company_scrabing.py` file in this repository.
 
-summary description of the data in the `top-it-companies-worldwide.ipynb` notebook:
+summary description of the data in the `EDA_FOR_top-it-companies-worldwide.ipynb` notebook:
 
 The data provides an overview of top IT companies, their specialties, locations, team sizes, founding years, and hourly rates. This information can be used to analyze the IT industry, identify top players, understand service offerings, and potentially explore business opportunities.
 
